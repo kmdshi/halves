@@ -23,7 +23,7 @@ In this project, I utilized the BLoC pattern for state management. I learned to 
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-**telegram** - [Contact me](https://t.me/vtelegpam)<br />
+**telegram** - [Contact me](https://t.me/kmdshi)<br />
 **Project Link** : [Share project link](https://github.com/kmdshi/halves)
 
 ⚙️ Demo: <br />
